@@ -1,24 +1,10 @@
 {
-    "tutorials": [
-      {
-        "title": "Game Of Throns",
-        "description": "Its an amazing season",
-        "id": 1
-      },
-      {
-        "title": "Arrow",
-        "description": "Its an amazing season",
-        "id": 2
-      },
-      {
-        "title": "Avengers",
-        "description": "Its an amazing movie",
-        "id": 3
-      },
-      {
-        "title": "Black Panther",
-        "description": "Its an amazing movie",
-        "id": 4
-      }
-    ]
-  }
+  "user": [
+    {
+      "username": "Abdullah",
+      "email": "abdullahbinkhalidz114@gmail.com",
+      "password": "user@123",
+      "id": 1
+    }
+  ]
+}
